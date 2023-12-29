@@ -11,4 +11,4 @@ PySpeed is a simple Python application to measure internet speed using a graphic
    pip install -r requirements.txt
 ```
 ## Bug Report
-This python application has a bug that doesn't make it work well please anyone with the skills to make a commit I'm trying to solve it myself... thanks in advance
+This python application has a bug that doesn't make it work well please anyone with the skills to make a commit I'm trying to solve it myself... Thanks in advance!
