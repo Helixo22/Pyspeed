@@ -10,4 +10,5 @@ PySpeed is a simple Python application to measure internet speed using a graphic
 ```bash
    pip install -r requirements.txt
 ```
-## Happy Speed Test
+## Contributors
+1:https://github.com/Marcospace10
