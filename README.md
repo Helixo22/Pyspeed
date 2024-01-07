@@ -12,5 +12,4 @@ PySpeed is a simple Python application to measure internet speed using a graphic
    pip install customtkinter
    pip install packaging
 ```
-## Contributors
-1:https://github.com/Marcospace10
+
